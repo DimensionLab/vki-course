@@ -1,0 +1,17 @@
+#rise-header {
+    background: url("vki_logo.png") no-repeat;
+    background-size: 250px 74px;
+    display: block;
+    width: 250px;
+    height: 74px;
+    margin: 10px;
+    left: 10%;
+}
+
+#rise-footer {
+    margin: 10px;
+    right: 10%;
+    font-style: italic;
+}
+
+
